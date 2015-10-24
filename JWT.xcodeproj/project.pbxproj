@@ -297,9 +297,9 @@
 		279D63931AD07FFF0024E2BC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftMigration = 0700;
-				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 0700;
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = Cocode;
 				TargetAttributes = {
 					279D639B1AD07FFF0024E2BC = {
